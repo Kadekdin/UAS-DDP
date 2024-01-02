@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "ddp-uas",
+  "description": "Kelompok 5 : Registrasi Event Jejepangan  Anggota : - Ida Bagus Herry Putra Wibawa (2301010063)            - I Kadek Dwitya Arinata       (2301010079)            - Kadek Diana Angelika P.      (2301010085)",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DDP-UAS"
+  },
+  "keywords": [
+    "DDP",
+    "Dasar-dasar",
+    "Pemrograman"
+  ],
+  "author": "gusherry,dwitya,kedin",
+  "license": "ISC"
+}
